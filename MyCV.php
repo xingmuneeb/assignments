@@ -50,6 +50,7 @@
 		<p id='littledetails'>Career Level</p>      
 		<p id='littledetails'>Website</p>
 		</div>
+		
 		<div id='dans2'>
 			<p id='ans2'>21</p>
 			<p id='ans2'>Fresher</p>
@@ -61,7 +62,7 @@
 		<div class='group'>
 		<div id='AboutMee'>About Me</div>
 		<hr >
-		<div class='paracontainer'><p id='para'>My Name is Muneeb From Pakistan. My Town address is Qila Ahmad Abad District Narowal. I am stufying BSIT in Murray College Sialkot. My Roll No. is 039. I want to be a professional web developer. I am passionate and hardworking.
+		<div class='paracontainer'><p id='para'>My Name is Muneeb From Pakistan. My Town address is Qila Ahmad Abad District Narowal. I am studying BSIT in Murray College Sialkot. My Roll No. is 039. I want to be a professional web developer. I am passionate and hardworking.
 		My Skills are:
 		<ul class='skills'>	
 		<li>PhotoShop</li>
@@ -70,7 +71,8 @@
 			<li>Penetration Testing</li>
 	</ul>
 	</p> </div></div>
-	
+	</div>
+	<div class='detailupic1'>
 		<p id='detailupic'>Name</p>
 		<p id='detailupic'>Degree </p>       
 		<p id='detailupic'>Phone</p>      
